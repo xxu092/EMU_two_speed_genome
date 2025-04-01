@@ -1,0 +1,5 @@
+Genome_size(Mbp): 1.18e+03
+N50: 9
+L50_(kbp): 3.76e+04
+Number_of_scaffolds: 54
+Region grouping: not done

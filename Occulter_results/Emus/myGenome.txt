@@ -1,0 +1,35 @@
+Genome_size(Mbp): 1.03e+03
+N50: 929
+L50_(kbp): 330
+Number_of_scaffolds: 7810
+Region grouping: done
+Regions_grouped_by: A mixture of two Cauchy distributions was fit to the data
+1st Cauchy distribution:
+      weight = 0.0354
+      peak position = 29.8
+      full width at half maximum = 1.49
+2nd Cauchy distribution: 
+      weight = 0.965
+      peak position = 41.8
+      full width at half maximum = 2.05
+
+Region: R0
+Interval_(%GC): 0->32.2
+GC_peak_(%GC): 29.8
+Proportion_of_genome: 6.18
+Number_of_regions(complete_only): 22589(21116)
+Average_length_kbp(complete_only): 2.82(2.82)
+St_dev_length_kbp(complete_only): 1.82(1.8)
+Number_of_genes: 719(702)
+Gene_density_(genes_per_Mbp): 11.3(11)
+
+Region: R1
+Interval_(%GC): 32.2->100
+GC_peak_(%GC): 41.8
+Proportion_of_genome: 93.8
+Number_of_regions(complete_only): 28910(17674)
+Average_length_kbp(complete_only): 33.5(31.9)
+St_dev_length_kbp(complete_only): 50.5(47.8)
+Number_of_genes: 41946(41403)
+Gene_density_(genes_per_Mbp): 43.4(42.8)
+
